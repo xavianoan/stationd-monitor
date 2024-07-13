@@ -1,7 +1,7 @@
 
 import requests,subprocess,platform,time,tg
 
-command = "sudo journalctl -u stationd --no-hostname -o cat --since '1.5 min ago'"
+command = "sudo journalctl -u tracksd -fo cat --since '1.5 min ago'"
 
 vpsname = platform.node()
 
