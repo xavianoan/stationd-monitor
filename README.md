@@ -17,7 +17,7 @@ sudo apt install git
 sudo apt install python3-pip
 ```
 ```
-git clone https://github.com/Theshaho/stationd-monitor/
+git clone https://github.com/xavianoan/stationd-monitor/
 ```
 ```
 cd stationd-monitor
